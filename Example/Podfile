@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AJZoomViewController_Example', :exclusive => true do
+  pod 'AJZoomViewController', :path => '../'
+end
+
+target 'AJZoomViewController_Tests', :exclusive => true do
+  pod 'AJZoomViewController', :path => '../'
+
+  
+end
