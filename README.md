@@ -22,7 +22,7 @@ pod "AJZoomViewController"
 
 ## Author
 
-Prabakaranm, prabakaranm@versatile-soft.com
+Prabakaranm, albenjohn@versatile-soft.com
 
 ## License
 

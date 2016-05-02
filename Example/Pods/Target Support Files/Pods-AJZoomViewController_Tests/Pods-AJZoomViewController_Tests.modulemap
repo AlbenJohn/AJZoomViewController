@@ -1,0 +1,6 @@
+framework module Pods_AJZoomViewController_Tests {
+  umbrella header "Pods-AJZoomViewController_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

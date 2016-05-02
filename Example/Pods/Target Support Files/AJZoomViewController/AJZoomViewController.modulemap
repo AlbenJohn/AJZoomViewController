@@ -1,0 +1,6 @@
+framework module AJZoomViewController {
+  umbrella header "AJZoomViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

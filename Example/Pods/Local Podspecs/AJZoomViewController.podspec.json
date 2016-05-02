@@ -1,0 +1,19 @@
+{
+  "name": "AJZoomViewController",
+  "version": "0.1.0",
+  "summary": "A short description of AJZoomViewController.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/AJZoomViewController",
+  "license": "MIT",
+  "authors": {
+    "Prabakaranm": "prabakaranm@versatile-soft.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/AJZoomViewController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AJZoomViewController/Classes/**/*"
+}

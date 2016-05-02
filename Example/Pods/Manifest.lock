@@ -1,0 +1,14 @@
+PODS:
+  - AJZoomViewController (0.1.0)
+
+DEPENDENCIES:
+  - AJZoomViewController (from `../`)
+
+EXTERNAL SOURCES:
+  AJZoomViewController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AJZoomViewController: 881285722c0fdeff79b8bc87fb0ec708b230cada
+
+COCOAPODS: 0.39.0
